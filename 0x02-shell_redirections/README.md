@@ -24,4 +24,4 @@ Displays all users and their home directories, sorted by users
 Finds all empty files and directories in the current directory and all sub-directories
 Lists all the files with a .gif extension in the current directory and all its sub-directories
 Decodes acrostics that use the first letter of each line
-Parses web servers in TSV format as input and displays the 11 hosts or IP addresses which did the most requests
+garses web servers in TSV format as input and displays the 11 hosts or IP addresses which did the most requests
